@@ -1,0 +1,4 @@
+C:\Java core>javac Book.java
+
+C:\Java core>java Book.java
+Book Name:JavaBook Author:ZaibaBook Isbn:123-456-789
